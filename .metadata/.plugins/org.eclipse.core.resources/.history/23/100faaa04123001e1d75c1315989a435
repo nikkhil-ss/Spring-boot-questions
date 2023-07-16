@@ -1,0 +1,18 @@
+package com.example.crud.service;
+
+import java.util.List;
+
+import com.example.crud.model.Employee;
+
+public interface EmployeeService {
+
+    Employee saveEmployee(Employee employee);
+
+    List<Employee> fetchAllEmployees();
+
+    Employee getEmployeeById(Long id);
+
+    Employee updateEmployeeById(Long id);
+
+    String deleteDepartmentById(Long id);
+}
