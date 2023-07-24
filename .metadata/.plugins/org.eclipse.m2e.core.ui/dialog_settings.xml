@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/nikhilsingh/Desktop/SpringBoott/student_marks"/>
 			<item value="/Users/nikhilsingh/Desktop/SpringBoott/course-api-data"/>
 			<item value="/Users/nikhilsingh/Desktop/SpringBoott/crud"/>
 			<item value="/Applications/SpringToolSuite4.app/Contents/MacOS/Tekstac/Star Singer Audition Retest"/>
