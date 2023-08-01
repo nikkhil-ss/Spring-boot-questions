@@ -6,6 +6,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/nikhilsingh/Desktop/studentt"/>
+			<item value="/Users/nikhilsingh/Downloads/spring-security-jwt"/>
 			<item value="/Users/nikhilsingh/Desktop/SpringBoott/student_marks"/>
 			<item value="/Users/nikhilsingh/Desktop/SpringBoott/course-api-data"/>
 			<item value="/Users/nikhilsingh/Desktop/SpringBoott/crud"/>
